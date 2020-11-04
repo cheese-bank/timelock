@@ -1,7 +1,7 @@
 <template>
   <div class="l-layout">
     <div class="l-default">
-      <div class="app-intro">{{ 'Unizon Timelock Admin' }}</div>
+      <div class="app-intro">{{ 'Cheese Bank Timelock Admin' }}</div>
       <Nuxt />
     </div>
   </div>

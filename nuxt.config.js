@@ -18,7 +18,7 @@ export default {
     host: '0.0.0.0' // default: localhost,
   },
   head: {
-    title: 'Unizon Timelock Admin',
+    title: 'Cheese Bank Timelock Admin',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
